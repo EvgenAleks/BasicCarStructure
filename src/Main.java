@@ -10,5 +10,12 @@ public class Main {
         x.cylinders = "4";
         x.size = "3300";
         x.weight = "420";
+
+        Color col = new Color();
+
+        col.colorLights = "true";
+        col.colorTyre = "false";
+        col.colorLights = "true";
+
     }
 }
