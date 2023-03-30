@@ -10,5 +10,10 @@ public class Main {
         x.cylinders = "4";
         x.size = "3300";
         x.weight = "420";
+
+        Lights neon = new Lights();
+        neon.color = "red";
+        neon.size = "16cm";
+        neon.intensity = "300lumin";
     }
 }
